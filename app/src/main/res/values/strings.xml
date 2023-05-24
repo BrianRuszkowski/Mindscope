@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">MindScope</string>
+    <string name="sub_title">
+        Nice to meet you, Our Community is Everything to us!
+        <br><b>Login</b> if you already have an account.</br>
+        <br><b>Register</b> to get started and be part of the community. </br>
+    </string>
+    <string name="btn_register">Register</string>
+    <string name="btn_login">Login</string>
+    <string name="login_title">Login to App</string>
+    <string name="login_sub_title">
+        <b>Login</b> if you already have an account.
+    </string>
+    <string name="login_email">Your email or username</string>
+    <string name="login_password">Your password</string>
+    <string name="login_forgot_pw">Forgot Password?</string>
+    <string name="login_havent_account">
+        I don\'t have an account <b>Register</b></string>
+    <string name="register_title">Create an account</string>
+    <string name="register_sub_title">
+        <b>Register</b> to get started with the app.
+    </string>
+    <string name="register_fullname">Your full name</string>
+    <string name="register_email">Your email</string>
+    <string name="register_username">Your Username</string>
+    <string name="confirm_password">Confirm Your Password</string>
+    <string name="login_already_user">Have an Account?</string>
+    <string name="home_title">Hello World!</string>
+    <string name="home_sub_title">Welcome to home</string>
+    <string name="btn_logout">LOGOUT</string>
+
+</resources>
